@@ -88,8 +88,8 @@ function Undyne() {
 	gameplay_stage.addChild(this.rightarm_sprite);
 	gameplay_stage.addChild(this.leftarm_sprite);
 	gameplay_stage.addChild(this.legs_sprite);
-	gameplay_stage.addChild(this.body_sprite);
 	gameplay_stage.addChild(this.skirt_sprite);
+	gameplay_stage.addChild(this.body_sprite);
 	gameplay_stage.addChild(this.head_sprite);
 	gameplay_stage.addChild(this.speech_bubble);
 	gameplay_stage.addChild(this.speech_bubble_text);
